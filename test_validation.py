@@ -7,5 +7,5 @@ def test_add_function():
 
 
 def test_add_function():
-    assert add_function(2,4)==10
+    assert add_function(2,4)==6
     
