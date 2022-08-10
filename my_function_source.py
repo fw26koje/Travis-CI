@@ -1,4 +1,4 @@
-"""contains code under test for solution_ci"""
+"""contains code under test for solution_ci. """
 def add_function(a,b):
     """
     Add two variables.
